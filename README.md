@@ -93,7 +93,7 @@ Configuration cache entry reused.
 ```
 
 ---------
-### Sbt daemon
+## Sbt daemon
 
 ```sh
 PS D:\projects\tmp\java-build-tools\sbt> sbt --client run
