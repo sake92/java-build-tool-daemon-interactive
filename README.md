@@ -73,7 +73,7 @@ BUILD SUCCESSFUL in 1s
 Configuration cache entry reused.
 ```
 
-Gradle daemon conveniently sets your input as `null˙.  
+Gradle daemon conveniently sets your input as `null`.  
 Obviously.
 
 Interestingly the no-daemon version doesn't work either!!! :oooooo
@@ -138,7 +138,7 @@ PS D:\projects\tmp\java-build-tools\mill> ./mill app.run
 [55/55] ============================= app.run ============================ 5s
 ```
 
-Mill daemon also conveniently sets your input as `null˙.  
+Mill daemon also conveniently sets your input as `null`.  
 Obviously.
 
 The workaround is to use mill in interactive mode: `./mill -i app.run`
